@@ -2,8 +2,6 @@
 
 The Story of a student is a CG Project story that defines the problems of education in our current society, and how we are far off from an actual smart world.
 
-<img width="1395" alt="The Epilogue of Education by Raja Rajan A." src="https://cloud.githubusercontent.com/assets/1134738/25937234/7dddde90-3648-11e7-825a-8da719b7fff4.png">
-
 ## Scene Breakdown
 1. Introduction Screen
 2. Preface/Summary
